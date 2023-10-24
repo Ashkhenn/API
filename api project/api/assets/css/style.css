@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    background-color: violet;
+    border-radius: 30px;
+}
